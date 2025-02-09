@@ -1,7 +1,3 @@
-Here’s a clean, professional format for your GitHub portfolio README:
-
----
-
 # **Sri Harshetha Amaravadi | Portfolio**
 
 Welcome to my portfolio repository! 🌟 Here, I showcase my skills, experiences, and projects in **Data Science**, **Machine Learning**, **Deep Learning**, and **Data Engineering**.
