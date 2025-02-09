@@ -1,43 +1,94 @@
-# Sriharshetha.github.io
+Here’s a clean, professional format for your GitHub portfolio README:
 
-Sri Harshetha Amaravadi Portfolio
-Welcome to my professional portfolio! 🚀 This repository showcases my journey, projects, and skills in Data Science, Machine Learning, Data Engineering, and Deep Learning.
+---
 
-About Me
-I am a naturally curious and active learner with hands-on experience through immersive projects. I specialize in:
+# **Sri Harshetha Amaravadi | Portfolio**
 
-Programming: Python, SQL, HTML
-Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch
-Data Engineering: Apache Spark, AWS S3, Lambda, Airflow
-Visualization Tools: Tableau, Power BI, Matplotlib, Seaborn
-Currently pursuing a Master’s in Data Science at the University of New Haven, with an expected graduation in May 2025.
+Welcome to my portfolio repository! 🌟 Here, I showcase my skills, experiences, and projects in **Data Science**, **Machine Learning**, **Deep Learning**, and **Data Engineering**.
 
-Portfolio Highlights
-1. Sparkify Music Streaming Analysis & Recommendation
-Technologies: AWS, MongoDB, Python, Apache Spark
-Processed large-scale streaming data for insights on song and artist popularity.
-Built a real-time recommendation system with Flask API integration.
-2. Real-Time Object Detection Using YOLOv8
-Technologies: YOLOv8, TensorFlow, Python
-Developed a custom YOLOv8 model achieving 89% mAP for real-time applications.
-Used advanced data augmentation techniques for improved accuracy.
-3. Pac-Man AI Project
-Technologies: Minimax, Alpha-Beta Pruning, Expectimax
-Built AI agents for adversarial game scenarios to optimize strategies.
-Find more detailed descriptions in the Projects Section below!
+---
 
-Skills
-Core Expertise
-Programming: Python, SQL, HTML
-Data Analysis: Pandas, NumPy, Tableau, Power BI
-Deep Learning: CNN, RNN, YOLO, Transfer Learning
-Big Data: Apache Spark, Hadoop, AWS
-How to Use This Portfolio
-Visit the hosted version at GitHub Pages.
-Explore the Projects section for detailed write-ups and links to repositories.
-Connect with me via LinkedIn or email: asriharshetha@gmail.com.
-Contact Me
-💌 Email: asriharshetha@gmail.com
-🔗 LinkedIn: Sri Harshetha Amaravadi
-📂 GitHub: Harshetha333
+## **Table of Contents**
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Education](#education)
+- [Projects](#projects)
+- [Work Experience](#work-experience)
+- [Contact](#contact)
 
+---
+
+## **About Me**
+
+I am a passionate Data Scientist and active learner currently pursuing my **Master’s in Data Science** at the **University of New Haven** (Expected: May 2025). With a strong foundation in **machine learning, data engineering, and AI**, I enjoy solving complex problems and building impactful solutions.
+
+My expertise includes:
+- Building end-to-end data pipelines.
+- Developing predictive models using advanced machine learning techniques.
+- Creating interactive dashboards for insightful data visualization.
+
+---
+
+## **Skills**
+
+### Programming Languages:
+- Python, SQL, HTML
+
+### Machine Learning & AI:
+- Scikit-learn, TensorFlow, Keras, PyTorch
+- Neural Networks, Decision Trees, XGBoost
+
+### Data Engineering & Big Data:
+- Apache Spark, Hadoop, AWS (S3, Lambda, EC2)
+
+### Visualization Tools:
+- Tableau, Power BI, Matplotlib, Seaborn
+
+### Other Tools:
+- Apache Kafka, Airflow, Einstein Analytics
+
+---
+
+## **Education**
+- **University of New Haven**  
+  Master’s in Data Science | GPA: 3.31/4.0  
+  **Coursework**: Artificial Intelligence, Data Engineering, Deep Learning, NLP  
+
+---
+
+## **Projects**
+
+### 1. [Sparkify Music Streaming Data Analysis](https://github.com/Harshetha333)
+   - Built a real-time recommendation system using AWS and Apache Spark.
+   - Processed and visualized large-scale data to extract insights on user behavior.
+   - Developed a Flask web app to serve dynamic music recommendations.
+
+### 2. [Real-Time Object Detection Using YOLOv8](https://github.com/Harshetha333)
+   - Designed a custom YOLOv8 model for object detection, achieving 89% mAP.
+   - Used TensorFlow and Python for real-time detection at 30 FPS.
+
+### 3. [Pac-Man AI Project](https://github.com/Harshetha333)
+   - Implemented Minimax, Alpha-Beta Pruning, and Expectimax algorithms.
+   - Developed intelligent AI agents for adversarial gameplay scenarios.
+
+More projects are detailed on my **[GitHub](https://github.com/Harshetha333)**.
+
+---
+
+## **Work Experience**
+
+### **Accenture** | Data Analyst (Aug 2022 - Mar 2023)
+- Automated ETL workflows, reducing manual effort by 40%.
+- Built predictive models, improving forecasting accuracy by 15%.
+
+### **Verzeo** | Data Science Intern (May 2019 - July 2019)
+- Developed machine learning models, enhancing customer behavior predictions by 20%.
+- Conducted data preprocessing and analysis using Python.
+
+---
+
+## **Contact**
+
+- 💌 Email: [asriharshetha@gmail.com](mailto:asriharshetha@gmail.com)  
+- 🔗 LinkedIn: [Sri Harshetha Amaravadi](https://linkedin.com/in/your-profile)  
+- 🌐 GitHub: [Harshetha333](https://github.com/Harshetha333)  
