@@ -85,6 +85,6 @@ More projects are detailed on my **[GitHub](https://github.com/Harshetha333)**.
 
 ## **Contact**
 
-💌 Email: asriharshetha@gmail.com
-🔗 LinkedIn: Sri Harshetha Amaravadi
-🌐 GitHub: Harshetha333
+-💌 Email: asriharshetha@gmail.com
+-🔗 LinkedIn: [Sri Harshetha Amaravadi](https://www.linkedin.com/in/sriharshethaamaravadi/)
+-🌐 GitHub: Harshetha333
