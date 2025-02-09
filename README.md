@@ -41,7 +41,7 @@ My expertise includes:
 - Tableau, Power BI, Matplotlib, Seaborn
 
 ### Other Tools:
-- Apache Kafka, Airflow, Einstein Analytics
+- Apache Kafka, Airflow
 
 ---
 
